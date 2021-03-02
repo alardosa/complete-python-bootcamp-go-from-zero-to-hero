@@ -13,6 +13,8 @@ We are proud to present Python for Finance: Investment Fundamentals and Data Ana
 An exciting journey from Beginner to Pro.
 
 ### References
+[The Latest Python Zero to Hero, Hottest for Remote Workers](https://www.alardosa.com/python-hero/)
+
 [2021 Complete Python 3 Bootcamp From Zero to Hero](https://www.alardosa.com/category/python-tutorial/2021-complete-python-3-bootcamp-from-zero-to-hero/)
 
 ## Contact
