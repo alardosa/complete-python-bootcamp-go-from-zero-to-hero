@@ -1,21 +1,19 @@
-# Python for Finance: Investment Fundamentals & Data Analytics
+# Complete Python Bootcamp From Zero to Hero in Python 
 
-Do you want to learn how to use Python in a working environment?
+Become a Python Programmer and learn one of employer's most requested skills of 2021!
 
-Are you a young professional interested in a career in Data Science?  
+This is the most comprehensive, yet straight-forward, tutorial for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you!
 
-Would you like to explore how Python can be applied in the world of Finance and solve portfolio optimization problems?  
+Learn how to use Python for real-world tasks, such as working with PDF Files, sending emails, reading Excel files, Scraping websites for informations, working with image files, and much more!
 
-If so, then this is the right course for you!  
+This tutorial will teach you Python in a practical manner, with every lecture comes a full coding screencast and a corresponding code notebook! Learn in whatever manner is best for you!
 
-We are proud to present Python for Finance: Investment Fundamentals and Data Analytics – one of the most interesting and complete courses we have created so far. It took our team slightly over four months to create this course, but now, it is ready and waiting for you.  
-
-An exciting journey from Beginner to Pro.
+We will start by helping you get Python installed on your computer, regardless of your operating system, whether its Linux, MacOS, or Windows, we've got you covered.
 
 ### References
-[The Latest Python Zero to Hero, Hottest for Remote Workers](https://www.alardosa.com/python-hero/)
+[The Latest Python Zero to Hero, Hottest for Remote Workers](https://www.alardosa.com/python-latest-hero/)
 
-[2021 Complete Python 3 Bootcamp From Zero to Hero](https://www.alardosa.com/category/python-tutorial/2021-complete-python-3-bootcamp-from-zero-to-hero/)
+[Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 
 ## Contact
 You can send me a note on Linkedin [@alardosa](https://www.linkedin.com/in/alardosa/)
