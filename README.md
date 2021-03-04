@@ -1,6 +1,6 @@
 # Complete Python Bootcamp From Zero to Hero in Python 
 
-Become a Python Programmer and learn one of employer's most requested skills of 2021!
+Become a Python Programmer and learn one of employer's most requested skills!
 
 This is the most comprehensive, yet straight-forward, tutorial for the Python programming language on Udemy! Whether you have never programmed before, already know basic syntax, or want to learn about the advanced features of Python, this course is for you!
 
